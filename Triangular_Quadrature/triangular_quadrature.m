@@ -1,6 +1,6 @@
 function q = triangular_quadrature(f, x1, y1, x2, y2, x3, y3, n)
-% Projekt 1, Zadanie 21
-% Karol Wójcik, 339107
+% Projekt 1
+% Karol Wójcik
 % 
 % Funkcja oblicza przybliżoną wartość całki podwójnej z funkcji f(x,y)
 % po trójkącie o wierzchołkach (x1,y1), (x2,y2), (x3,y3).

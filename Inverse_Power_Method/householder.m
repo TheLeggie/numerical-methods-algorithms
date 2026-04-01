@@ -1,6 +1,6 @@
 function [Q, R] = householder(A)
-% Projekt 2, Zadanie 09
-% Karol Wójcik, 339107
+% Projekt 2
+% Karol Wójcik
 %
 % Funkcja wykonuje rozkład QR macierzy A metodą odbić Householdera
 %

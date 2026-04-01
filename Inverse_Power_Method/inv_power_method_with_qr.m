@@ -1,6 +1,6 @@
 function [lambda, v, errEst] = inv_power_method_with_qr(A, tol, maxIter)
-% Projekt 2, Zadanie 09
-% Karol Wójcik, 339107
+% Projekt 2
+% Karol Wójcik
 %
 % Funkcja znajduje najmniejszą co do wartości bezwzględnej wartość własną
 % macierzy kwadratowej A przy użyciu rozkładu QR otrzymanego metodą odbić
