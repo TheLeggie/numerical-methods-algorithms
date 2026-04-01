@@ -1,6 +1,6 @@
 # Numerical Methods Algorithms
 
-This repository contains MATLAB scripts implementing numerical methods.
+This repository contains MATLAB scripts implementing numerical methods. The algorithms were developed as part of Numerical Methods course at the Warsaw University of Technology.
 
 ## Numerical Integration
 
